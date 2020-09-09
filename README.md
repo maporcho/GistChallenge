@@ -47,3 +47,15 @@ There are three flavors available: indigo, blue and dark. Each flavor define a d
 A sample unit test is in a **/test** subfolder. This folder structure follows the one found in the /main/java folder.
 
 
+## Frameworks and libraries used
+
+* **[Kodein](https://kodein.org/Kodein-DI/)**: dependency injection
+* **[Retrofit](https://square.github.io/retrofit/)**: REST client
+* **[Picasso](https://square.github.io/picasso/)**: image loading
+* **[Room](https://developer.android.com/topic/libraries/architecture/room)**: persistence library
+* **[Stetho](http://facebook.github.io/stetho/)**: debug utility
+
+
+
+
+
