@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NetshoesGistChallenge</string>
+    <string name="item_label_list">Gists</string>
+    <string name="item_label_favorite">Favorites</string>
+
+    <string name="gists_error_fetching">There was an error fetching gists. Are you connected to the internet?</string>
+
+    <string name="favorite_error_fetching_list">There was an error fetching your favorite list. Please try again later.</string>
+    <string name="favorite_error_fetching_gist">There was an error fetching the gist.</string>
+    <string name="favorite_error_adding">There was an error adding the gist to your favorite list. Please try again later.</string>
+    <string name="favorite_error_deleting">There was an error deleting the gist from your favorite list. Please try again later.</string>
+
+    <string name="favorite_no_data">No favorites available. Why don\'t you try to add some?</string>
+
+    <string name="gist_no_data">It looks like you\'re offline. Don\'t worry, you can still check you favorite gists! :-)</string>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_gist_list"
+        android:icon="@drawable/baseline_list_black_24"
+        android:title="@string/item_label_list"/>
+
+    <item
+        android:id="@+id/navigation_favorite_gists"
+        android:icon="@drawable/baseline_grade_black_24"
+        android:title="@string/item_label_favorite"/>
+
+</menu>
