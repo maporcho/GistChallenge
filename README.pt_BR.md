@@ -47,3 +47,13 @@ Existem três flavors disponíveis: índigo, blue e dark. Cada flavor define um 
 Um teste de unidade de exemplo está em na subpasta **/test**. A estrutura dessa pasta segue a estrutura da pasta /main/java.
 
 
+## Frameworks e bibliotecas utilizadas
+
+* **[Kodein](https://kodein.org/Kodein-DI/)**: injeção de dependências
+* **[Retrofit](https://square.github.io/retrofit/)**: cliente REST
+* **[Picasso](https://square.github.io/picasso/)**: carregamento de imagens
+* **[Room](https://developer.android.com/topic/libraries/architecture/room)**: biblioteca de persistência
+* **[Stetho](http://facebook.github.io/stetho/)**: utilitário para debug
+
+
+
